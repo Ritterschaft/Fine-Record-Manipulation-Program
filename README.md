@@ -1,4 +1,4 @@
-# ITMD510-Final-Project
+# Fine-reconrd-manipulation-system
 A java and MySQL based application for info records manipulation. 
 
 Springfield Residency Info Management System

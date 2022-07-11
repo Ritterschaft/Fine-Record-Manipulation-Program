@@ -1,4 +1,4 @@
-# Fine-reconrd-manipulation-system
+# Fine-reconrd-manipulation-program
 A java and MySQL based application for info records manipulation. 
 
 Springfield Residency Info Management System
